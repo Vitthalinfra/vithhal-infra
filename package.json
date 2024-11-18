@@ -2,7 +2,7 @@
   "name": "construction-company",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Vitthalinfra/vithhal-infra",
+  "homepage": "https://Vitthalinfra.github.io/vithhal-infra",
   "dependencies": {
     "@headlessui/react": "^2.2.0",
     "@heroicons/react": "^2.1.5",
